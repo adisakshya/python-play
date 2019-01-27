@@ -1,4 +1,5 @@
 # python-play
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 python-play is a python module that allows you to play
 mp3 audio file.
@@ -15,10 +16,19 @@ pip install python-play
 ```
 
 # Usage
-Just type
+Open python by running
 ```
-python-play [/path/to/mp3/audio/file]
+py
 ```
+then, type
+```
+>>> from python_play.player import play_it
+pygame 1.9.4
+Hello from the pygame community, https://www.pygame.org/contribute.html
+>>> play_it('/path/to/mp3/audio/file')
+Press Ctrl+C to stop
+```
+Voila!
 
 # To-Do
 
