@@ -18,7 +18,7 @@ pip install python-play
 # Usage
 Open python by running
 ```
-py
+python3
 ```
 then, type
 ```
