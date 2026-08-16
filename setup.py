@@ -11,7 +11,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'python-play'
 DESCRIPTION = 'play mp3 audio files'
-URL = 'https://github.com/adisakshya/python_play'
+URL = 'https://github.com/adisakshya/python-play'
 EMAIL = 'adisakshya98@gmail.com'
 AUTHOR = 'Adisakshya Chauhan'
 REQUIRES_PYTHON = '>=3.6.0'
