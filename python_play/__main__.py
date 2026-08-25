@@ -4,7 +4,6 @@ import sys
 
 # main function
 
-
 def main():
     try:
         play_it(sys.argv[1])
